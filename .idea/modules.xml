@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-cursos.iml" filepath="$PROJECT_DIR$/.idea/dio-cursos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso-java-basico/metodos-sistema-smart-tv/metodos.iml" filepath="$PROJECT_DIR$/curso-java-basico/metodos-sistema-smart-tv/metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/curso-java-basico/operadores/operadores.iml" filepath="$PROJECT_DIR$/curso-java-basico/operadores/operadores.iml" />
       <module fileurl="file://$PROJECT_DIR$/curso-java-basico/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/curso-java-basico/tipos-variaveis/tipos-variaveis.iml" />
     </modules>
