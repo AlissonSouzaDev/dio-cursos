@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/curso-java-basico/conta-banco/conta-banco.iml" filepath="$PROJECT_DIR$/curso-java-basico/conta-banco/conta-banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso-java-basico/controle-candidatos/controle-candidatos.iml" filepath="$PROJECT_DIR$/curso-java-basico/controle-candidatos/controle-candidatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso-java-basico/desafio-controle-fluxo/desafio-controle-fluxo.iml" filepath="$PROJECT_DIR$/curso-java-basico/desafio-controle-fluxo/desafio-controle-fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-cursos.iml" filepath="$PROJECT_DIR$/.idea/dio-cursos.iml" />
       <module fileurl="file://$PROJECT_DIR$/curso-java-basico/documentacao/documentacao.iml" filepath="$PROJECT_DIR$/curso-java-basico/documentacao/documentacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/curso-java-basico/estruturas-condicionais/estruturas-condicionais.iml" filepath="$PROJECT_DIR$/curso-java-basico/estruturas-condicionais/estruturas-condicionais.iml" />
