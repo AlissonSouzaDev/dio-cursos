@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/curso-java-basico/operadores/operadores.iml" filepath="$PROJECT_DIR$/curso-java-basico/operadores/operadores.iml" />
       <module fileurl="file://$PROJECT_DIR$/curso-java-basico/terminal-argumentos/terminal-argumentos.iml" filepath="$PROJECT_DIR$/curso-java-basico/terminal-argumentos/terminal-argumentos.iml" />
       <module fileurl="file://$PROJECT_DIR$/curso-java-basico/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/curso-java-basico/tipos-variaveis/tipos-variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso-java-basico/orientação-a-objetos/visibilidade-recursos/visibilidade-recursos.iml" filepath="$PROJECT_DIR$/curso-java-basico/orientação-a-objetos/visibilidade-recursos/visibilidade-recursos.iml" />
     </modules>
   </component>
 </project>
