@@ -1,5 +1,7 @@
+package encapsulamento;
+
 /*
- * Simulação do uso da classe MSNMessenger
+ * Simulação do uso da classe encapsulamento.MSNMessenger
  */
 public class ComputadorPedrinho {
     public static void main(String[] args) {

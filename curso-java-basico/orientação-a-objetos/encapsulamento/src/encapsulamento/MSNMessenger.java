@@ -1,3 +1,5 @@
+package encapsulamento;
+
 public class MSNMessenger {
     public void enviarMensagem() {
         //primeiro confirmar se esta conectado a internet

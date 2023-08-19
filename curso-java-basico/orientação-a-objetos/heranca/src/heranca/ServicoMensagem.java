@@ -1,4 +1,6 @@
-public class ServicoMensagemInstantanea {
+package heranca;
+
+public class ServicoMensagem {
     public void enviarMensagem() {
         validarConectadoInternet();
 

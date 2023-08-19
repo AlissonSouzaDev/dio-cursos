@@ -1,8 +1,9 @@
+package heranca;
 
-public class ComputadorPedrinhoHeranca extends ServicoMensagemInstantanea{
+public class ComputadorPedrinho {
     public static void main(String[] args) {
         System.out.println("MSN");
-        MSNMessengerHeranca msn = new MSNMessengerHeranca();
+        MSNMessenger msn = new MSNMessenger();
 
         msn.enviarMensagem();
 
@@ -10,7 +11,7 @@ public class ComputadorPedrinhoHeranca extends ServicoMensagemInstantanea{
 
         System.out.println();
         System.out.println("Facebook");
-        FacebookMessengerHeranca fcb = new FacebookMessengerHeranca();
+        FacebookMessenger fcb = new FacebookMessenger();
 
         fcb.enviarMensagem();
 
@@ -18,7 +19,7 @@ public class ComputadorPedrinhoHeranca extends ServicoMensagemInstantanea{
 
         System.out.println();
         System.out.println("Telegram");
-        TelegramHeranca tlg = new TelegramHeranca();
+        Telegram tlg = new Telegram();
 
         tlg.enviarMensagem();
 
